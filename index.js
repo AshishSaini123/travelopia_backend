@@ -13,7 +13,6 @@ const main=async()=>{
     data=await data.find().toArray()
     return data;
 }
-main()
 app.get("/",async(req,res)=>{
     
     try {
