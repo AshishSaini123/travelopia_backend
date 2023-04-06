@@ -1,0 +1,24 @@
+{
+  "name": "travelopia_backend",
+  "version": "1.0.0",
+  "description": "Creating backend for the frontend requirement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishSaini123/travelopia_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshishSaini123/travelopia_backend/issues"
+  },
+  "homepage": "https://github.com/AshishSaini123/travelopia_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0"
+  }
+}
